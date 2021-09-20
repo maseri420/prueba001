@@ -1,1 +1,5 @@
 hola wapetones
+
+
+hay que iniciar sesion.
+El ordenador te guarda creedenciales (borrar).
