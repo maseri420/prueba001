@@ -3,3 +3,4 @@ hola wapetones
 Crear cuenta en git hub.
 hay que iniciar sesion.
 El ordenador te guarda creedenciales (borrar).
+Documentación de git con todo lo que dió.
